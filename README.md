@@ -4,4 +4,4 @@ this is a simple readme file
 
 adding some more text from video
 
-modifying the readme - (advanced topics section of tutorial)
+I hope this isnt much of a problem
